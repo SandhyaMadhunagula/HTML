@@ -1,0 +1,111 @@
+<!DOCTPE html>
+ 
+<html>
+    
+<title>html class
+</title>
+ 
+<head>
+    
+<table border=10 cellpadding=12 cellspacing=3 width=160
+ 
+height=70 bordercolor="red" bgcolor="yellow">
+ 
+<!----cellpadding will increase box size
+  
+      cellspacing is nothing the distance the cells
+              
+      th means:table heading
+              
+      td:whatever the data present in that table
+              
+      tr:table row---->
+      
+<caption><h2>
+tables in html
+</h2></caption>
+      
+<tr>
+        
+<th>student_id</th>
+        
+<th>std_name</th>
+        
+<th>gender</th>
+        
+<th>age</th>
+        
+</tr>
+        
+<tr>
+          
+<td>119</td>
+         
+<td>Sandhya</td> 
+         
+<td>female</td>
+           
+<td>18</td>
+        
+</tr>
+        
+<tr>
+          
+<td>112</td>
+          
+<td>Debasish</td>
+          
+<td>male</td>
+          
+<td>17</td>
+        
+</tr>
+        
+<tr>
+          
+<td>110</td>
+          
+<td>Ojasvi </td>
+          
+<td rowspan=2>female</td>
+          
+<td  rowspan=2 >16</td>
+        
+</tr>
+        <tr>
+          
+<td>105</td>
+          
+<td>Manasa</td> 
+        
+</tr>
+        
+<tr>
+          
+<td>118</td>
+          
+<td >Srishanth</td>
+          
+<td rowspan=2>male</td>
+          
+<td>18</td>
+          
+       
+</tr>
+       
+<tr>
+         
+<td>124</td>
+         
+<td>Deekshith</td>
+         
+<td>17</td>
+       
+</tr>
+      
+    
+</head>
+ 
+</html>
+  
+  
