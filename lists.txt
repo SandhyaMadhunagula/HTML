@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+<body  bgcolor="#00ff00">
+<h3>lists in html</h3>
+<pre></pre><p>all the list items in ordered list are numbers </p>
+<p> ordered list starts with <mark>ol</mark> tag and list items starts with <mark>li</mark> tag</li></ol></p>
+<ol type="1" start="8">
+  <!------type="a" then it will starts from letter a if we want middle of the alphabet then we have to write "start" attribute---->
+<hr>
+<h3><mark><q>Coding languages</mark></q></h3>
+<li>C</li>
+<li>C++</i>
+<li>Python</li>
+<li>Java</li>
+<li>Go lang</li>
+<li>R</li>
+</ol>
+<h3 style="color:red"><hr></h3>
+<h3>unordered list in html list items are marked with bullets.and it starts with <mark>ul</mark> tag---</h2>
+<hr>
+<ul type=square>
+<li>Excel</li>
+<li>PHP</li>
+<li>Flutter</li>
+<li>COBOL</li>
+<li>Lua</li>
+<li>C#</li>
+</ul>
+<hr>
+<h3><u>description (or) definiton list</u></h3>
+<dl>
+ <p>dt:data term and dd:data definition</p>
+  <dd>Hyper text Markup Language</dd>
+  <dt>css</dt>
+  <dd>cascadding style sheets</dd>
+  
+</dl>
+</body>
+</html>
