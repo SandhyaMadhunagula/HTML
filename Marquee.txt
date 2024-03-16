@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>
+</title>
+
+</head>
+
+<body>
+
+<h2>marquee tags in html </h2>
+<p><h3> it is used to <u>scroll an image ,text horizontally (or) vertically</u></h3></p>
+<h3> in Marquee tag by default text (or) images moves from left to right</h3>
+
+<marquee scrollamount=10 bgcolor="red" width=100%  height=50px
+ direction=left><u><h2>this is marquee tag</h2>
+ </u></marquee>
+<marquee scrollamount=10 bgcolor="yellow" width=50%  color="green"
+ ><u> marquee tag</u></marquee>
+ <h2 style="background : yellow">this is marquee tag</h2>
+ 
+</body>
+ 
+</html>
