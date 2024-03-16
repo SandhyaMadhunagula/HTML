@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello, World!</title>
+</head>
+<body>
+<h3>froms in html</h3>
+<form >
+<fieldset>
+<legend>enter ur details</legend>
+<p><strong>enter ur name:</strong></p><input type="text" name="username" placeholder=" name"/>
+<p><strong>enter ur email:</strong></p><input type="email" name="email" placeholder=" email"/><br>
+<br><strong>enter ur password:</strong><input type="password" name="password"/>
+<hr>
+<h3>textarea tag in html</h3>
+write abt urself:<br>
+<textarea rows="3" cols="25">
+  </textarea><hr>
+  <h4>label tag (radio buttons)</h4>
+  <label for="gender"> Gender :</label>
+  <input type="radio" id="gender" name="gender" value="male"/> Male
+  <input type="radio" id="gender" name="gender" value="female"/>Female
+ <br> <input type="submit" value="submit"/>
+  <hr>
+<p>which prgrmng should u know?</p>
+<select name="dropdown">
+<option value="C lang"> C lang</option>
+<option value="python">python</option>
+<option value="java" selected>Java</option>
+<option value="C++">C++</option>
+</select>
+<p>which is ur fav.sub</p> 
+<input type="checkbox" name="maths" value="on"/>maths<br>
+<input type="checkbox" name="science" value="on"/>science<br>
+<input type="checkbox" name="ai" value="off"/> AI<br>
+<input type="checkbox" name="SE" value="on"/>SE<br>
+</fieldset>
+</form>
+</body>
+</html>
